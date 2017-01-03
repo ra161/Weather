@@ -22,10 +22,10 @@ from twython import TwythonStreamer
 
 tweets = []
 
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-ACCESS_TOKEN = ''
-ACCESS_TOKEN_SECRET = ''
+CONSUMER_KEY = 'iIGro5OoOYFmmJBbweRApLYEL'
+CONSUMER_SECRET = 'tIEz0ak8XJmgprbWiR9TEPGT687zvcRS0jOsIVvsNJqFXZXjEe'
+ACCESS_TOKEN = '2296555754-6BWSExNbF8QfcC2BuDzA8ZkPiKRuenJUzUzhTjq'
+ACCESS_TOKEN_SECRET = 'eTkSwRw0pFKtSTHaAnlziiPa2UxQST3d7sHq7xdvjJwyw'
 
 
 class MyStreamer(TwythonStreamer):
